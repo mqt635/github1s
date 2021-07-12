@@ -74,7 +74,7 @@ export const readGitHubFile = (
 export const validateToken = (token: string) => {
 	const authHeaders = token ? { Authorization: `token ${token}` } : {};
 	return self
-		.fetch(`https://api.github.com`, { headers: { ...authHeaders } })
+		.fetch(`https://api.github.com/`, { headers: { ...authHeaders } })
 		.then((response) => ({
 			token: !!token, // if the token is not empty
 			valid: response.status !== 401 ? true : false, // if the request is valid
@@ -138,11 +138,13 @@ export const getGitHubAllFiles = (
 export const getGitHubPulls = (
 	owner: string,
 	repo: string,
+	pageNumber = 0,
+	pageSize = 100,
 	options?: RequestInit
 ) => {
 	// TODO: only recent 100 pull requests are supported now
 	return fetch(
-		`https://api.github.com/repos/${owner}/${repo}/pulls?state=all&order=created&per_page=100`,
+		`https://api.github.com/repos/${owner}/${repo}/pulls?state=all&order=created&per_page=${pageSize}&page=${pageNumber}`,
 		options
 	);
 };
@@ -176,10 +178,12 @@ export const getGitHubCommits = (
 	owner: string,
 	repo: string,
 	sha: string,
+	pageNumber = 0,
+	pageSize = 100,
 	options?: ResponseInit
 ) => {
 	return fetch(
-		`https://api.github.com/repos/${owner}/${repo}/commits?sha=${sha}&per_page=100`,
+		`https://api.github.com/repos/${owner}/${repo}/commits?sha=${sha}&per_page=${pageSize}&page=${pageNumber}`,
 		options
 	);
 };

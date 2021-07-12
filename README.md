@@ -144,36 +144,36 @@ The continued development and maintenance of GitHub1s is made possible by these 
 
 ### Chrome Extensions
 
-- [chouglesaud/](https://github.com/chouglesaud)[repositree](https://github.com/chouglesaud/repositree) - [Chrome Web Store](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo)
-
-- [zulhfreelancer](https://github.com/zulhfreelancer)[Open in VS Code](https://chrome.google.com/webstore/detail/open-in-vs-code-github1sc/neloiopjjeflfnecdlajhopdlojlkhll)
-
-- [fhefh2015/GitHub1s_chrome_extension](https://github.com/fhefh2015/GitHub1s_chrome_extension) - [Chrome Web Store](https://chrome.google.com/webstore/detail/github1s/lodjfmkfbfkpdhnhkcdcoonghhghbkhe)
-
-- [febaoshan/edge-extensions-github-code-viewer](https://github.com/febaoshan/edge-extensions-github-code-viewer) - [Chrome Web Store](https://chrome.google.com/webstore/detail/github-code-viewer/ecddapgifccgblebfibdgkagfbdagjfn)
-
-- [Darkempire78/GitHub1s-Extension](https://github.com/Darkempire78/GitHub1s-Extension)
-- [zvizvi/GitHub Web IDE](https://github.com/zvizvi/github-web-ide) - [Chrome Web Store](https://chrome.google.com/webstore/detail/adjiklnjodbiaioggfpbpkhbfcnhgkfe)
-- [katsuhisa91/github1s-shortcut](https://github.com/katsuhisa91/github1s-shortcut) - [Chrome Web Store](https://chrome.google.com/webstore/detail/shortcut-to-github1s/gfcdbodapcbfckbfpmgeldfkkgjknceo)
+- [Repositree](https://chrome.google.com/webstore/detail/repositree/lafjldoccjnjlcmdhmniholdpjkbgajo) ([chouglesaud/repositree](https://github.com/chouglesaud/repositree))
+- [Open in VS Code](https://chrome.google.com/webstore/detail/open-in-vs-code-github1sc/neloiopjjeflfnecdlajhopdlojlkhll) by [zulhfreelancer](https://github.com/zulhfreelancer)
+- [GitHub1s](https://chrome.google.com/webstore/detail/github1s/lodjfmkfbfkpdhnhkcdcoonghhghbkhe) ([fhefh2015/GitHub1s_chrome_extension](https://github.com/fhefh2015/GitHub1s_chrome_extension))
+- [github-code-viewer](https://chrome.google.com/webstore/detail/github-code-viewer/ecddapgifccgblebfibdgkagfbdagjfn) ([febaoshan/edge-extensions-github-code-viewer](https://github.com/febaoshan/edge-extensions-github-code-viewer))
+- Github1s Extension ([Darkempire78/GitHub1s-Extension](https://github.com/Darkempire78/GitHub1s-Extension))
+- [Github Web IDE](https://chrome.google.com/webstore/detail/adjiklnjodbiaioggfpbpkhbfcnhgkfe) ([zvizvi/Github-Web-IDE](https://github.com/zvizvi/Github-Web-IDE))
+- [shortcut to github1s](https://chrome.google.com/webstore/detail/shortcut-to-github1s/gfcdbodapcbfckbfpmgeldfkkgjknceo) ([katsuhisa91/github1s-shortcut](https://github.com/katsuhisa91/github1s-shortcut))
+- [Github1s Shortut - Open source](https://github.com/Fauzdar1/Github1s) 
 
 ### Firefox Extensions
 
-- [chouglesaud/](https://github.com/chouglesaud)[repositree](https://github.com/chouglesaud/repositree) - [Firefox Browser Addons](https://addons.mozilla.org/en-US/firefox/addon/repositree/)
-
-- [Darkempire78/GitHub1s-Extension](https://github.com/Darkempire78/GitHub1s-Extension) - [Firefox Browser Addons](https://addons.mozilla.org/firefox/addon/github1s-extension)
-- [mcherifi/github1s-firefox-addon](https://github.com/mcherifi/github1s-firefox-addon) - [Firefox Browser Addons](https://addons.mozilla.org/firefox/addon/github1s/)
-- [zvizvi/GitHub Web IDE](https://github.com/zvizvi/github-web-ide) - [Firefox Browser Addons](https://addons.mozilla.org/firefox/addon/github-web-ide/)
+- [Repositree](https://addons.mozilla.org/en-US/firefox/addon/repositree/) ([chouglesaud/repositree](https://github.com/chouglesaud/repositree))
+- [Github1s Extension](https://addons.mozilla.org/firefox/addon/github1s-extension) ([Darkempire78/GitHub1s-Extension](https://github.com/Darkempire78/GitHub1s-Extension))
+- [Github1s](https://addons.mozilla.org/firefox/addon/github1s/) ([mcherifi/github1s-firefox-addon](https://github.com/mcherifi/github1s-firefox-addon))
+- [Github Web IDE](https://addons.mozilla.org/firefox/addon/github-web-ide/) ([zvizvi/Github-Web-IDE](https://github.com/zvizvi/Github-Web-IDE))
 
 ### Microsoft Edge Extensions
 
-- [febaoshan/edge-extensions-github-code-viewer](https://github.com/febaoshan/edge-extensions-github-code-viewer)
-- [zvizvi/GitHub Web IDE](https://github.com/zvizvi/github-web-ide) - [Edge Add-ons Store](https://microsoftedge.microsoft.com/addons/detail/akjbkjciknacicbnkfjbnlaeednpadcf)
+- [github-code-viewer](https://microsoftedge.microsoft.com/addons/detail/githubcodeviewer/jaaaapanahkknbgdbglnlchbjfhhjlpi) ([febaoshan/edge-extensions-github-code-viewer](https://github.com/febaoshan/edge-extensions-github-code-viewer))
+- [Github Web IDE](https://microsoftedge.microsoft.com/addons/detail/akjbkjciknacicbnkfjbnlaeednpadcf) ([zvizvi/Github-Web-IDE](https://github.com/zvizvi/Github-Web-IDE))
+
+### Safari Extension
+
+- [GitHub1s-For-Safari-Extension](https://apps.apple.com/us/app/readcodeonline/id1569026520?mt=12) ([code4you2021/GitHub1s-For-Safari-Extension](https://github.com/code4you2021/GitHub1s-For-Safari-Extension))
 
 ### Tampermonkey scripts
 
 - [Mr-B0b/TamperMonkeyScripts/vscode.js](https://github.com/Mr-B0b/TamperMonkeyScripts/blob/main/vscode.js)
 
-### Maintainers! :blush:
+## Maintainers! :blush:
 
 <table>
   <tbody><tr>
@@ -182,3 +182,7 @@ The continued development and maintenance of GitHub1s is made possible by these 
     <td align="center"><a href="https://github.com/Siddhant-K-code"><img alt="" src="https://avatars.githubusercontent.com/Siddhant-K-code" width="100px;"><br><sub><b>Siddhant Khare</b></sub></a><br><a href="https://github.com/conwnet/github1s/commits?author=Siddhant-K-code" title="Code">💻 🖋</a></td> </a></td>
   </tr>
 </tbody></table>
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/conwnet/github1s.svg)](https://starchart.cc/conwnet/github1s)
